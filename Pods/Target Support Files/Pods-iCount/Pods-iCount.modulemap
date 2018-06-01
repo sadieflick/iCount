@@ -1,0 +1,6 @@
+framework module Pods_iCount {
+  umbrella header "Pods-iCount-umbrella.h"
+
+  export *
+  module * { export * }
+}
